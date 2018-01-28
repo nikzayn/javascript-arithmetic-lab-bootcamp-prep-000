@@ -2,19 +2,16 @@ function add(a,b){
  var result = a + b
   return result
 }
-add()
 
 function subtract(a,b){
   var result = a - b
   return result
 }
-subtract()
 
 function multiply(a,b){
   var result = a * b
   return result
 }
-multiply()
 
 function divide(a,b){
   var result = a / b
