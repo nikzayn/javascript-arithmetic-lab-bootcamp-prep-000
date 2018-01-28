@@ -20,7 +20,6 @@ function divide(a,b){
   var result = a / b
   return result
 }
-divide()
 
 function inc(n){
   n++
