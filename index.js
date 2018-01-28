@@ -30,11 +30,11 @@ function dec(n){
   n--
   return n
 }
-function makeInt(n){
+function makeInt(){
   parseInt('n', 10);
   return n
 }
-function preserveDecimal(n){
+function preserveDecimal(){
   parseFloat('n')
   return n
 }
